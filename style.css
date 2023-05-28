@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+     background-color: rgb(210, 210, 255);
+}
+header {
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 25px;
+}
+.link-header{
+    color: black;
+    text-decoration: purple;
+}
+.link-nav{
+    color: black;
+    background-color: purple;
+    padding: 13px;
+    margin: 13px;
+    text-decoration: purple;
+}
+img {
+    margin: 20px;
+}
+p {
+    color: rebeccapurple
+}
